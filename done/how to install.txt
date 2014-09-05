@@ -1,0 +1,11 @@
+* Close your internet connection.
+* Install application by selecting "TRY"
+* Select "Connect Later"
+* Once installed, launch and quit each application at least one time, blocking any outgoing connections is necessary.
+* Replace amtlib.framework in Application_Name.app/Contents/Frameworks/  
+  IMPORTANT : Keep a copy of the original file, you may need it later.
+* Use firewall to stop internet connection of the application.
+
+
+
+PS. In order to get Photoshop Extended version, you need to launch the Photoshop application at least once before proceeding with replacing the amtlib.framework. If you've already replaced the framework, there's no need to reinstal the lot, simply reinstate the original framework (because you did keep a backup copy, Aren't you?), launch Photoshop. Quit and replace the framework with cracked one. 

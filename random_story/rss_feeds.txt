@@ -1,0 +1,4 @@
+http://news.yahoo.com/rss/
+http://www.notepage.net/blog-feed.xml
+http://feeds.gawker.com/lifehacker/full
+http://feeds.bbci.co.uk/news/rss.xml

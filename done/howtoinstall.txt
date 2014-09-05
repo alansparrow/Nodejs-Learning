@@ -1,0 +1,7 @@
+• Install Adobe Illustrator CS6 as trial while disconnected from the net (or block outgoing connections)
+• Do not enter an Adobe ID, Select 'Connect later'
+• Once installed, launch and quit application at least once, blocking any outgoing connections as necessary.
+• Replace (keep a copy of the original just in case) amtlib.framework in Application_Name.app/Contents/Frameworks/ with cracked one.
+• IMPORTANT : Block outgoing connections.
+
+Thanks to azr+
